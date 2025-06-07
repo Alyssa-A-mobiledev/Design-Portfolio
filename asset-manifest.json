@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Design-Portfolio/static/css/main.0fee37c2.css",
+    "main.js": "/Design-Portfolio/static/js/main.d11ca105.js",
+    "static/js/453.1407b060.chunk.js": "/Design-Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/my-image.jpg": "/Design-Portfolio/static/media/my-image.03cc43f3c2349464f658.jpg",
+    "static/media/film-strip.png": "/Design-Portfolio/static/media/film-strip.b41f9abe58176080bd60.png",
+    "static/media/project4.jpg": "/Design-Portfolio/static/media/project4.ce84bd126254d499b82b.jpg",
+    "static/media/ToDo.png": "/Design-Portfolio/static/media/ToDo.0b0a50278cf74b13f3c2.png",
+    "static/media/cms.png": "/Design-Portfolio/static/media/cms.05cb878a692319e24165.png",
+    "static/media/project2.jpg": "/Design-Portfolio/static/media/project2.cbb6d76a0eb940de3c4c.jpg",
+    "static/media/project3.jpg": "/Design-Portfolio/static/media/project3.dfd0fd9e92c0280a9e57.jpg",
+    "static/media/gallery.png": "/Design-Portfolio/static/media/gallery.8333b92cf5e5735a0891.png",
+    "static/media/contact-image.png": "/Design-Portfolio/static/media/contact-image.4a436edc9256ced74ed5.png",
+    "static/media/project1.jpg": "/Design-Portfolio/static/media/project1.68480165f5dd5017da58.jpg",
+    "static/media/logo.png": "/Design-Portfolio/static/media/logo.294ca52e337ec8cb6a5c.png",
+    "index.html": "/Design-Portfolio/index.html",
+    "main.0fee37c2.css.map": "/Design-Portfolio/static/css/main.0fee37c2.css.map",
+    "main.d11ca105.js.map": "/Design-Portfolio/static/js/main.d11ca105.js.map",
+    "453.1407b060.chunk.js.map": "/Design-Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fee37c2.css",
+    "static/js/main.d11ca105.js"
+  ]
+}
